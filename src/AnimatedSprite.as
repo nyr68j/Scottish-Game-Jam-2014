@@ -36,7 +36,7 @@ package
 		{
 			removeEventListener(Event.ADDED_TO_STAGE, Initialize);
 			
-			frameHeight = 0;
+			frameHeight = 1;
 			frameWidth = 0;
 			
 			currentHeight = 0;
